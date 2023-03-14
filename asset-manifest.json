@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./cHaOSnet-app/static/css/main.075a967d.css",
+    "main.js": "./cHaOSnet-app/static/js/main.3e29183b.js",
+    "static/js/496.8ea89e80.chunk.js": "./cHaOSnet-app/static/js/496.8ea89e80.chunk.js",
+    "index.html": "./cHaOSnet-app/index.html",
+    "main.075a967d.css.map": "./cHaOSnet-app/static/css/main.075a967d.css.map",
+    "main.3e29183b.js.map": "./cHaOSnet-app/static/js/main.3e29183b.js.map",
+    "496.8ea89e80.chunk.js.map": "./cHaOSnet-app/static/js/496.8ea89e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075a967d.css",
+    "static/js/main.3e29183b.js"
+  ]
+}
